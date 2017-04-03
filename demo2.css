@@ -1,0 +1,32 @@
+h2{
+     font-family: times new roman;
+     font-size: 15px;
+     text-align: center;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+div{
+    border: solid black 2px;
+}
+p{
+    width:1500px; 
+    padding: 0px 20px 0px 20px;
+}
+img{
+    padding: 0px 20px;
+}
+#head{
+    border:none;
+}
+#footer{
+  text-align:       center;
+  padding:          15px;
+  margin:           10px;
+  font-size:        90%;
+  border: none;
+}
